@@ -11,3 +11,5 @@ It also uses a timeout of 0.1s when creating a socket to speed up the scan.
 
 To scan a IP range use(192.168.1.xx-192.168.1.xx) port.
 
+Thanks ChatGPT for improvizing!
+
