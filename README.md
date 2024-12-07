@@ -16,7 +16,8 @@ To scan a IP range use(192.168.1.xx-192.168.1.xx) port.
 A Python script to decrypt password-protected PDF files (AES-encrypted) and save them as unlocked files. Requires the password to remove encryption. Ideal for personal or authorized use.
 
 Install dependencies
-''''pip install pikepdf''''
+
+pip install pikepdf
 
 Legal Disclaimer
 Use this tool only for files you own or have permission to modify.
