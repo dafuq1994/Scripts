@@ -11,5 +11,23 @@ It also uses a timeout of 0.1s when creating a socket to speed up the scan.
 
 To scan a IP range use(192.168.1.xx-192.168.1.xx) port.
 
-Thanks ChatGPT for improvizing!
+# PDF Password Remover
 
+A Python script to decrypt password-protected PDF files (AES-encrypted) and save them as unlocked files. Requires the password to remove encryption. Ideal for personal or authorized use.
+
+Usage
+Clone the repository and install dependencies:
+bash
+Copy code
+git clone https://github.com/your-username/pdf-password-remover.git
+cd pdf-password-remover
+pip install -r requirements.txt
+Run the script:
+bash
+Copy code
+python remove_pdf_password.py
+Follow the prompts to enter the input PDF path, output path, and password.
+Dependencies
+pikepdf (install via pip install pikepdf)
+Legal Disclaimer
+Use this tool only for files you own or have permission to modify.
